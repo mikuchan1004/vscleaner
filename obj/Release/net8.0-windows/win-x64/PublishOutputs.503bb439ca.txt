@@ -1,2 +1,0 @@
-F:\Project\VSCleaner\Publish\VSCleaner.pdb
-F:\Project\VSCleaner\Publish\VSCleaner.exe
