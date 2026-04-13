@@ -422,8 +422,8 @@ Publish/
 
 # Visual Studio 임시 폴더 및 빌드 결과물
 .vs/
-[Bb]in/
-[Oo]bj/
+bin/
+obj/
 *.user
 *.suo
 *.shellmnt
