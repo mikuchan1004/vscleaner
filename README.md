@@ -4,11 +4,10 @@
 ![Dotnet Version](https://img.shields.io/badge/.NET-8.0-blueviolet)
 ![License](https://img.shields.io/badge/license-MIT-green)
 [![VirusTotal Check](https://img.shields.io/badge/VirusTotal-1%2F73%20Clean-success?logo=virustotal)](https://www.virustotal.com/gui/file/c0add59d7aae26ab452a14901c27c0c6a574e57d5dc16d28b4fa9bd9eeaa4c3f?nocache=1)
+![AI Assisted](https://img.shields.io/badge/Developed%20with-AI%20Assistance-blueviolet?style=flat-square&logo=openai)
 
 
 **VSCleaner**는 개발 환경과 일상적인 앱 사용 중 쌓이는 불필요한 데이터를 한 번에 정리하는 스마트 클리너입니다.
-
-> 💡 본 프로그램은 Google Gemini의 도움을 받아 C#으로 제작되었습니다.
 
 ## 📸 스크린샷
 
