@@ -8,6 +8,8 @@
 
 **VSCleaner**는 개발 환경과 일상적인 앱 사용 중 쌓이는 불필요한 데이터를 한 번에 정리하는 스마트 클리너입니다.
 
+> 💡 본 프로그램은 Google Gemini의 도움을 받아 C#으로 제작되었습니다.
+
 ## 📸 스크린샷
 
 <img width="689" height="492" alt="image" src="https://github.com/user-attachments/assets/a10e30f9-967d-4349-a7ed-26b6a54b1e13" />
