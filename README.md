@@ -6,11 +6,6 @@
 [![VirusTotal Check](https://img.shields.io/badge/VirusTotal-1%2F73%20Clean-success?logo=virustotal)](https://www.virustotal.com/gui/file/c0add59d7aae26ab452a14901c27c0c6a574e57d5dc16d28b4fa9bd9eeaa4c3f?nocache=1)
 ![Assisted by Gemini](https://img.shields.io/badge/Assisted%20by-Google%20Gemini-blue?logo=googlegemini&logoColor=white)
 
-
-
-**본 프로젝트는 2026년 5월 11일부로 중단되었습니다 
-(사유 : 비주얼 스튜디오 임시 폴더 + 디스코드 캐시 정리를 포함한 임시파일 정리 유틸리티를 별도로 만들어놨기에 이 프로젝트를 유지할 이유가 없기 때문입니다)**
-
 ## 📸 스크린샷
 
 <img width="689" height="492" alt="image" src="https://github.com/user-attachments/assets/a10e30f9-967d-4349-a7ed-26b6a54b1e13" />
