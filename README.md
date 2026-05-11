@@ -2,12 +2,14 @@
 
 [![Latest Release](https://img.shields.io/github/v/release/mikuchan1004/vscleaner?logo=github)](https://github.com/mikuchan1004/vscleaner/releases/latest)
 ![Dotnet Version](https://img.shields.io/badge/.NET-8.0-blueviolet)
-![License](https://img.shields.io/badge/license-MIT-green)
+![라이선스](https://img.shields.io/badge/license-MIT-green)
 [![VirusTotal Check](https://img.shields.io/badge/VirusTotal-1%2F73%20Clean-success?logo=virustotal)](https://www.virustotal.com/gui/file/c0add59d7aae26ab452a14901c27c0c6a574e57d5dc16d28b4fa9bd9eeaa4c3f?nocache=1)
 ![Assisted by Gemini](https://img.shields.io/badge/Assisted%20by-Google%20Gemini-blue?logo=googlegemini&logoColor=white)
 
 
-**VSCleaner**는 개발 환경과 일상적인 앱 사용 중 쌓이는 불필요한 데이터를 한 번에 정리하는 스마트 클리너입니다.
+
+**본 프로젝트는 2026년 5월 11일부로 중단되었습니다 
+(사유 : 비주얼 스튜디오 임시 폴더 + 디스코드 캐시 정리를 포함한 임시파일 정리 유틸리티를 별도로 만들어놨기에 이 프로젝트를 유지할 이유가 없기 때문입니다)**
 
 ## 📸 스크린샷
 
@@ -23,5 +25,5 @@
 * **Runtime:** .NET 8.0 Desktop Runtime
 
 ## 📥 설치 및 사용 방법
-1. [Releases](https://github.com/mikuchan1004/vscleaner/releases) 페이지에서 최신 버전의 `VSCleaner.exe`를 다운로드합니다.
+1. [릴리즈](https://github.com/mikuchan1004/vscleaner/releases) 페이지에서 최신 버전의 `VSCleaner.exe`를 다운로드합니다.
 2. 정리하고 싶은 Visual Studio 프로젝트 폴더를 선택하고 실행하세요.
