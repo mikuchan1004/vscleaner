@@ -6,6 +6,8 @@
 [![VirusTotal Check](https://img.shields.io/badge/VirusTotal-1%2F73%20Clean-success?logo=virustotal)](https://www.virustotal.com/gui/file/c0add59d7aae26ab452a14901c27c0c6a574e57d5dc16d28b4fa9bd9eeaa4c3f?nocache=1)
 ![Assisted by Gemini](https://img.shields.io/badge/Assisted%20by-Google%20Gemini-blue?logo=googlegemini&logoColor=white)
 
+**본 프로젝트는 WindowsSystemCleaner에 통합되었습니다. (링크 : https://github.com/mikuchan1004/windows-system-cleaner)**
+
 ## 📸 스크린샷
 
 <img width="689" height="492" alt="image" src="https://github.com/user-attachments/assets/a10e30f9-967d-4349-a7ed-26b6a54b1e13" />
